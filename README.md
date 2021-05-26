@@ -9,16 +9,16 @@ COVIDx CXR-2 is an open access benchmark dataset, comprising 13,975 CXR images a
 ### Model Performance
 #### Recall Metrics
 
-![Recall Metrics](https://user-images.githubusercontent.com/47745543/119654283-e93c5c00-be45-11eb-905d-1fd7c888e74f.JPG) 
+![Recall Metrics](https://user-images.githubusercontent.com/47745543/119679160-c0c05c00-be5d-11eb-9a70-7f8f39d76c60.JPG)
 
 
 #### Confusion Matrix
-![Confusion Matrix](https://user-images.githubusercontent.com/47745543/119641173-ff8eeb80-be36-11eb-8c21-aeeb02edc7cb.JPG)
 
+![Confusion Matrix](https://user-images.githubusercontent.com/47745543/119679076-b2724000-be5d-11eb-9cef-b62ab280b6d2.JPG)
 
 #### Loss & Accuracy Curves
-![Loss   Accuracy Curve](https://user-images.githubusercontent.com/47745543/119641450-4aa8fe80-be37-11eb-8ee4-f9bc69c4c706.JPG)
 
+![Loss   Accuracy Curve](https://user-images.githubusercontent.com/47745543/119679134-bb631180-be5d-11eb-8f7b-860d07a22c40.JPG)
 
 #### Model Predictions
 ![Latest Model Output](https://user-images.githubusercontent.com/47745543/119654249-dd509a00-be45-11eb-9b2b-6968576904cc.JPG)  
