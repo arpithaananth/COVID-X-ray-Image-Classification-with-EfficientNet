@@ -4,6 +4,8 @@ This repository aims to classify Chest X-ray reports into COVID Positive & Negat
 ### About Dataset
 COVIDx CXR-2 is an open access benchmark dataset, comprising 13,975 CXR images across 13,870 patient cases. 
 Source of Data: Kaggle
+Link to Training & Testing Data: https://www.kaggle.com/andyczhao/covidx-cxr2
+
 ### Model Performance
 #### Recall Metrics
 
